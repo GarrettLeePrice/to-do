@@ -1,0 +1,16 @@
+#show-tasks {
+  display: none;
+}
+
+.list-to-do {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.list-to-do:hover {
+  text-decoration: underline;
+}
+
+input[type=checkbox] {
+  display: none;;
+}
